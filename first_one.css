@@ -1,0 +1,17 @@
+﻿body {
+    color: red;
+    text-align: center;
+    font-family: 'Lobster', cursive;
+    background-color: darkolivegreen;
+}
+h1{
+    
+    font-size:95px;
+    letter-spacing:3px;
+}
+p{
+    font-size:34px;
+}
+.dice{
+    display:inline-block;
+}
